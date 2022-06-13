@@ -1,0 +1,11 @@
+.\objects\buttons_nucleo-f446re.o: c:\Keil_v526\ARM\PACK\Keil\STM32NUCLEO_BSP\1.8.0\Boards\ST\NUCLEO-F446RE\Common\Buttons_NUCLEO-F446RE.c
+.\objects\buttons_nucleo-f446re.o: c:\Keil_v526\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\objects\buttons_nucleo-f446re.o: c:\Keil_v526\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f446xx.h
+.\objects\buttons_nucleo-f446re.o: c:\Keil_v526\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h
+.\objects\buttons_nucleo-f446re.o: c:\Keil_v526\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\buttons_nucleo-f446re.o: c:\Keil_v526\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\buttons_nucleo-f446re.o: c:\Keil_v526\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\buttons_nucleo-f446re.o: c:\Keil_v526\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\buttons_nucleo-f446re.o: c:\Keil_v526\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\buttons_nucleo-f446re.o: c:\Keil_v526\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\objects\buttons_nucleo-f446re.o: c:\Keil_v526\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board\Board_Buttons.h
